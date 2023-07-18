@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/react-qr-scaner/static/css/main.2265e9dd.css",
+    "main.css": "/react-qr-scaner/static/css/main.67b97fdc.css",
     "main.js": "/react-qr-scaner/static/js/main.5eaae20e.js",
     "index.html": "/react-qr-scaner/index.html"
   },
   "entrypoints": [
-    "static/css/main.2265e9dd.css",
+    "static/css/main.67b97fdc.css",
     "static/js/main.5eaae20e.js"
   ]
 }
